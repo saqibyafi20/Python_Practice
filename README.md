@@ -4,12 +4,14 @@ A collection of python practice programs covering topics  including exercises on
 # Student Grade Management System (Python)
 This is a simple and interactive Python program that allows users to manage student records, calculate their total marks, average marks, and assign grades automatically based on performance.
 It is designed for beginners learning Python and covers essential concepts such as:
+<br>
 User input handling
 Loops
 Lists & dictionaries
 Conditional statements
 Basic calculations
 Modular programming
+<br>
 
 How It Works
 1.User enters the number of students
@@ -24,12 +26,14 @@ How It Works
 
 # Kaun Banega Crorepati – Python Mini Project
 This is a console-based quiz game inspired by Kaun Banega Crorepati (KBC), developed using Python. The program displays multiple-choice questions related to general knowledge. Each correct answer increases the player’s winning amount, while a wrong answer ends the game immediately.
+<br>
 
 * Features
 1.Multiple-choice questions (MCQs)
 2.Fixed prize money for each question
 3.Instant feedback for correct and incorrect answers
 4.Total winnings displayed at the end
+  <br>
 
 🔹 Concepts Used
 1.Lists and indexing
