@@ -24,7 +24,7 @@ How It Works
 8.Grade
 9.Final report is displayed
 
-# Kaun Banega Crorepati – Python Mini Project
+# Kaun Banega Crorepati –- Python Mini Project
 This is a console-based quiz game inspired by Kaun Banega Crorepati (KBC), developed using Python. The program displays multiple-choice questions related to general knowledge. Each correct answer increases the player’s winning amount, while a wrong answer ends the game immediately.
 <br>
 
