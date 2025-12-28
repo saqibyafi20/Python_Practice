@@ -14,36 +14,36 @@ Modular programming
 <br>
 
 How It Works
-1.User enters the number of students
-2.For each student:
-3.Enter name
-4.Enter marks for each subject
-5.Program calculates:
-6.Total
-7.Average
-8.Grade
+1.User enters the number of students<br>
+2.For each student:<br>
+3.Enter name<br>
+4.Enter marks for each subject<br>
+5.Program calculates:<br>
+6.Total<br>
+7.Average<br>
+8.Grade<br>
 9.Final report is displayed
 
 # Kaun Banega Crorepati –- Python Mini Project
 This is a console-based quiz game inspired by Kaun Banega Crorepati (KBC), developed using Python. The program displays multiple-choice questions related to general knowledge. Each correct answer increases the player’s winning amount, while a wrong answer ends the game immediately.
 <br>
 
-* Features
-1.Multiple-choice questions (MCQs)
-2.Fixed prize money for each question
-3.Instant feedback for correct and incorrect answers
-4.Total winnings displayed at the end
+* Features<br>
+1.Multiple-choice questions (MCQs)<br>
+2.Fixed prize money for each question<br>
+3.Instant feedback for correct and incorrect answers<br>
+4.Total winnings displayed at the end<br>
   <br>
 
-🔹 Concepts Used
-1.Lists and indexing
-2.Loops (for)
-3.Conditional statements (if-else)
-4.User input and output
-5.Basic game logic
+🔹 Concepts Used<br>
+1.Lists and indexing<br>
+2.Loops (for)<br>
+3.Conditional statements (if-else)<br>
+4.User input and output<br>
+5.Basic game logic<br>
 
-🔹 How It Works
-1.The player is asked questions one by one
-2.Each question has four options
-3.Correct answers increase the prize money
+🔹 How It Works<br>
+1.The player is asked questions one by one<br>
+2.Each question has four options<br>
+3.Correct answers increase the prize money<br>
 4.A wrong answer terminates the game
