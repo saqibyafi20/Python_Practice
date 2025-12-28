@@ -13,7 +13,7 @@ Basic calculations
 Modular programming
 <br>
 
-How It Works
+How It Works<br>
 1.User enters the number of students<br>
 2.For each student:<br>
 3.Enter name<br>
